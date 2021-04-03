@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\TerminatorsModel\bin\Debug\TerminatorsModel.dll
+C:\Users\Christian\source\repos\TerminatorsModel\bin\Debug\TerminatorsModel.pdb
+C:\Users\Christian\source\repos\TerminatorsModel\obj\Debug\TerminatorsModel.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\TerminatorsModel\obj\Debug\TerminatorsModel.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\TerminatorsModel\obj\Debug\TerminatorsModel.dll
+C:\Users\Christian\source\repos\TerminatorsModel\obj\Debug\TerminatorsModel.pdb

@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\TerminatorsApp\bin\Debug\TerminatorsApp.exe.config
+C:\Users\Christian\source\repos\TerminatorsApp\bin\Debug\TerminatorsApp.exe
+C:\Users\Christian\source\repos\TerminatorsApp\bin\Debug\TerminatorsApp.pdb
+C:\Users\Christian\source\repos\TerminatorsApp\obj\Debug\TerminatorsApp.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\TerminatorsApp\obj\Debug\TerminatorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\TerminatorsApp\obj\Debug\TerminatorsApp.exe
+C:\Users\Christian\source\repos\TerminatorsApp\obj\Debug\TerminatorsApp.pdb
+C:\Users\Christian\source\repos\TerminatorsApp\bin\Debug\TerminatorsModel.dll
+C:\Users\Christian\source\repos\TerminatorsApp\bin\Debug\TerminatorsModel.pdb
+C:\Users\Christian\source\repos\TerminatorsApp\obj\Debug\TerminatorsApp.csproj.CopyComplete
